@@ -24,7 +24,7 @@ with DAG(
     description='Appending a message every minute  into a file',
     default_args=defualt_arg,
     start_date=pendulum.datetime(2024,2,6,tz='Asia/Kolkata'),
-    schedule_interval='*/2 * * * *',
+    schedule_interval='*/1 * * * *',
     catchup=False,
 ) as dag:
     write_task=PythonOperator(
