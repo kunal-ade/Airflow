@@ -1,5 +1,5 @@
 Project Title: 
-      Automating-Data-Ingestion-A-WSL2-and-Windows-11-Synergy-powered-by-Airflow-and-PostgreSQL
+          Automating-Data-Ingestion-A-WSL2-and-Windows-11-Synergy-powered-by-Airflow-and-PostgreSQL
 
 
 Description: 
@@ -10,8 +10,4 @@ Description:
     DAG2: Retrieves the last line from the file and loads it into a PostgreSQL database running on Windows 11.
 
   Technologies:
-            Airflow,
-            WSL2,
-            PostgreSQL,
-            Bash,
-            Python.
+    > Airflow, WSL2, PostgreSQL, Bash, Python.
