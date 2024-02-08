@@ -11,5 +11,9 @@ Description:
 
  Technologies
  
-     Airflow,WSL2,PostgreSQL, Bash,Python.
+     Airflow,
+     WSL2,
+     PostgreSQL, 
+     Bash,
+     Python.
   
