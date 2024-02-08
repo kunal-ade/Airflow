@@ -9,5 +9,5 @@ Description:
 
     DAG2: Retrieves the last line from the file and loads it into a PostgreSQL database running on Windows 11.
 
-  Technologies:
-    > Airflow, WSL2, PostgreSQL, Bash, Python.
+  Technologies: 
+            Airflow, WSL2, PostgreSQL, Bash, Python.
