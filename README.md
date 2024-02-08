@@ -3,7 +3,7 @@ Project Title:
 
 
 Description: 
-    - This project demonstrates how to use Airflow to create two Directed Acyclic Graphs (DAGs):
+   - This project demonstrates how to use Airflow to create two Directed Acyclic Graphs (DAGs):
 
     DAG1: Writes a line to a text file every minute within the Windows Subsystem for Linux 2 (WSL2).
 
